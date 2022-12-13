@@ -1,8 +1,8 @@
 test:
-	python3 TDD.py
+	python TDD.py
 
 run:
-	python3 main.py
+	python main.py
 
 add:
 	git add *
