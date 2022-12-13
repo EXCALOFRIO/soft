@@ -27,3 +27,8 @@ make test
 ```bash
 make run
 ```
+
+```bash
+$ git config --global user.name "Alejandro Ramírez Larena"
+$ git config --global user.email alejandro.ramirezlarana@usp.ceu.es
+```
